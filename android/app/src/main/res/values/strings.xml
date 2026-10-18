@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="freeze_service_desc">Detects when a frozen app opens during its scheduled window and shows a reminder screen. Reads only foreground app changes — no content is collected or leaves the device.</string>
+</resources>

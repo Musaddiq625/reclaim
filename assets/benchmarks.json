@@ -1,0 +1,17 @@
+{
+  "facts": [
+    {"topic": "total", "text": "Global average daily screen time is about 6h40m (DataReportal); under ~3h counts as light use."},
+    {"topic": "total", "text": "Mobile screen time above ~5h/day correlates with reported sleep and focus problems in population studies."},
+    {"topic": "pickups", "text": "The average person checks their phone ~58 times a day; heavy users exceed 100."},
+    {"topic": "night", "text": "Screen use in the hour before bed measurably delays sleep onset; heavy late-night use (>60min) is a strong predictor of next-day fatigue."},
+    {"topic": "night", "text": "Typical users spend under ~15% of daily screen time after 11pm."},
+    {"topic": "social", "text": "Social media averages ~2.5h/day globally; anything under 30min/day is far below the norm."},
+    {"topic": "social", "text": "Short, frequent social sessions (checking loops) are the dominant pattern — sessions under 2 minutes drive most pickups."},
+    {"topic": "sessions", "text": "Sessions longer than 20 minutes are where most 'lost time' concentrates; cutting even one per day is a meaningful win."},
+    {"topic": "goal", "text": "Behavior-change research favors small caps: reducing the worst app's time by ~25% for a week outperforms quit attempts."},
+    {"topic": "goal", "text": "A protected morning window (no feeds before) is among the highest-leverage digital habits studied."}
+  ],
+  "comparisons": [
+    {"key": "daily_minutes", "label": "Daily screen time", "benchmark": 400, "unit": "min", "note": "global average"}
+  ]
+}
