@@ -5,6 +5,9 @@ servers, and an accessibility-powered app freezer that holds the line.
 
 Built for [Hacktoberfest 2026 — Week 2: Side Hustle](https://dev.to/challenges/hacktoberfest-week2-2026-10-12).
 
+<img width="2400" height="1500" alt="reclaim-banner-v3" src="https://github.com/user-attachments/assets/771f216f-14fe-47bd-a58a-fe8ac9c0765b" />
+
+
 ## What it is
 
 Reclaim reads the ~7 days of usage history Android already keeps and turns
